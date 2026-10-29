@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Haven",
+    "slug": "haven",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FAF9F6",
+    "android": {
+      "package": "com.haven.app",
+      "backgroundColor": "#FAF9F6"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "37f69a9f-8f8b-4d68-a914-1e136a50c77e"
+      }
+    }
+  }
+}
